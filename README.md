@@ -1,6 +1,8 @@
 Hog
 ===================
-CS61A project 1
+###### Structure and Interpretation of Computer Programs (CS61A-Fa18) taught by Prof. DeNero at UC Berkeley 
+
+### CS61A project 1
 -------------------
 ![*I know! I'll use my
 Higher-order functions to
